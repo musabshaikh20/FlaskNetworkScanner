@@ -4,4 +4,4 @@ A simple Flask UI interface for network scanning
 git clone url\
 create the virual env and install necessary libraries\
 run command python server.py\
-Hit localhost:5000 on browser\
+Hit localhost:5000 on browser
