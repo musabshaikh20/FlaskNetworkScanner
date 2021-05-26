@@ -5,6 +5,6 @@ git clone url
 #
 create the virual env and install necessary libraries
 # 
-python server.py
+run command python server.py
 #
 Hit localhost:5000 on browser
